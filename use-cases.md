@@ -21,4 +21,5 @@
 - [社区分享丨法大大基于MeterSphere打通DevOps流程](https://blog.fit2cloud.com/?p=3876)
 - [社区分享丨万帮能源基于MeterSphere展开微服务接口自动化测试](https://blog.fit2cloud.com/?p=803a62a3-03c0-4e84-84e3-0e7f8efcc3c5)
 - [社区分享｜致远互联基于MeterSphere构建敏捷测试平台与DevOps体系](https://blog.fit2cloud.com/?p=5069)
+- [社区分享丨蓝卓数字科技的MeterSphere使用分享](https://blog.fit2cloud.com/?p=146c107e-87f2-4aff-8601-751ccb92d3c7)
 - [社区分享｜云智天下的自动化测试落地与演进](https://blog.fit2cloud.com/?p=4949)
