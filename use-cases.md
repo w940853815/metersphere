@@ -27,3 +27,4 @@
 - [案例分享｜民生科技基于MeterSphere平台实现测试用例复用](https://blog.fit2cloud.com/?p=2288)
 - [案例分享丨蔚澜环保基于MeterSphere的自动化测试实践](https://blog.fit2cloud.com/?p=1591)
 - [案例分享｜88完美邮箱全面提升产品质量的落地指南](https://blog.fit2cloud.com/?p=1573)
+- [案例分享｜九里云基于MeterSphere落地一站式自动化测试平台](https://blog.fit2cloud.com/?p=2078)
